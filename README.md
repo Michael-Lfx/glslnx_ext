@@ -25,9 +25,9 @@ It was just to see how practical some kind of "build system" for shaders would b
 Don't expect much maintenance for it. :)
 
 ## Semantic
-``#f "file path"``
-``#m "main file path"``
-``#o "output name"``
+``#f "file path"``  
+``#m "main file path"``  
+``#o "output name"``  
 
 ## License
 Do what you want with this code.
